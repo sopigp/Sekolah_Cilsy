@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>env_uat</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.cilsy.id/'</initValue>
+      <name>url_cilsy</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://opensource-demo.orangehrmlive.com/index.php/auth/login'</initValue>
+      <name>url_OrangeHRM</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'passuntuktugas123'</initValue>
+      <name>add_employee_password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'C:\\\\Users\\\\asus\\\\Pictures\\\\CEKDISINI.png'</initValue>
+      <name>upload_file</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'gitapratiwi'</initValue>
+      <name>add_employee_username</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

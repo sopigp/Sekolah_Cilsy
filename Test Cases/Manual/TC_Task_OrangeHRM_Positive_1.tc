@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Task_OrangeHRM_Positive_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b005f29c-a249-46b8-b065-9c787a5cd74c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>496dfbf5-a9e7-4cdd-9c9a-91b55a0d8de3</id>
+      <masked>false</masked>
+      <name>upload_file_success</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sofie'</defaultValue>
+      <description></description>
+      <id>b7b8be87-db8c-4675-b4c5-a8ff5ac91ea7</id>
+      <masked>false</masked>
+      <name>verify_add_employee_firstName</name>
+   </variable>
+</TestCaseEntity>

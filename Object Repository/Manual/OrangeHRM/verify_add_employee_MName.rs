@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verify_add_employee_MName</name>
+   <tag></tag>
+   <elementGuidId>ec43a67b-1686-4bc8-badf-db1ffa6f6e89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='personal_txtEmpMiddleName'][count(. | //*[@id = 'personal_txtEmpMiddleName' and @name = 'personal[txtEmpMiddleName]']) = count(//*[@id = 'personal_txtEmpMiddleName' and @name = 'personal[txtEmpMiddleName]'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>personal_txtEmpMiddleName</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>personal[txtEmpMiddleName]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='personal_txtEmpMiddleName']</value>
+   </webElementProperties>
+</WebElementEntity>

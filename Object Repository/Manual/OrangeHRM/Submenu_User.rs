@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>submenu_user</name>
+   <tag></tag>
+   <elementGuidId>800088b2-5924-4dd2-ab4d-0763e498a5ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@id='menu_admin_viewSystemUsers'][count(. | //*[@id = 'menu_admin_viewSystemUsers']) = count(//*[@id = 'menu_admin_viewSystemUsers'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>menu_admin_viewSystemUsers</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@id='menu_admin_viewSystemUsers']</value>
+   </webElementProperties>
+</WebElementEntity>

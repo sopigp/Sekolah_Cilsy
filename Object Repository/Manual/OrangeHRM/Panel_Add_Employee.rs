@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>panel_add_employee</name>
+   <tag></tag>
+   <elementGuidId>91d1fa9a-c267-4bae-9ef8-4ab04a344288</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@id='menu_pim_addEmployee'][count(. | //*[@id = 'menu_pim_addEmployee']) = count(//*[@id = 'menu_pim_addEmployee'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>menu_pim_addEmployee</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@id='menu_pim_addEmployee']</value>
+   </webElementProperties>
+</WebElementEntity>

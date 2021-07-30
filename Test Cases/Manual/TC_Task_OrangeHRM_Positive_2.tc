@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Task_OrangeHRM_Positive_2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f1138775-ac3e-43f1-ad09-e59d4d48b3e6</testCaseGuid>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\asus\\\\Pictures\\\\cobain.jpg'</defaultValue>
+      <description></description>
+      <id>7515029e-c756-4c0b-b19d-7795da33e535</id>
+      <masked>false</masked>
+      <name>upload_file</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>df6f8556-21d6-4429-9bce-0635de932c20</id>
+      <masked>false</masked>
+      <name>upload_file_success</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sofie'</defaultValue>
+      <description></description>
+      <id>60c22263-b5b1-4e8c-a9e3-3a2c1432e764</id>
+      <masked>false</masked>
+      <name>verify_add_employee_firstName</name>
+   </variable>
+</TestCaseEntity>
